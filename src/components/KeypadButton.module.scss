@@ -1,0 +1,34 @@
+.logo {
+
+    height: 4rem;
+    width: auto;
+}
+
+.keypadButton {
+    --background: none;
+    --color: black;
+    font-size: 2rem;
+    font-weight: 700;
+    --outline: none;
+    --border: none;
+    --box-shadow: none;
+    padding: none;
+    margin: none;
+    --background-hover: rgb(245, 245, 245) !important;
+    --background-focused: rgb(245, 245, 245) !important;
+    --background-activated: rgb(245, 245, 245) !important;
+    
+}
+
+.smallKeypadButton {
+
+    font-size: 1.4rem;
+    margin-top: 1rem;
+}
+
+.keypad {
+
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}

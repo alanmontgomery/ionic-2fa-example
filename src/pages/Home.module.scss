@@ -1,0 +1,37 @@
+.logo {
+
+    height: 4rem;
+    width: auto;
+}
+
+.incorrect {
+
+    color: rgb(218, 67, 67);
+}
+
+.successContainer {
+
+
+}
+
+.successText {
+
+    background-color: rgba(26, 251, 120, 0.2);
+    color: rgb(67, 218, 112);
+    padding: 1rem;
+}
+
+.successContinue {
+
+    font-weight: 700;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.successContinue ion-icon {
+
+    margin-top: 0.2rem;
+}
