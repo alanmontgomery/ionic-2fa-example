@@ -1,0 +1,24 @@
+# ionic-2fa-example
+Example of Ionic React 2FA UI
+
+> This is a good example of a custom UI for 2FA
+
+## Features of this app
+* Custom inputs
+* Custom buttons
+* Custom CSS animations for error/success
+* Custom inputs controlled by state variables
+
+---
+
+#### NOTE
+**The "success" code is hardcoded into the app.**
+> In a real scenario, you could fetch the code from a server or send a request to check the code against etc.
+
+### Run the app
+`npm install` then `ionic serve`
+
+**Alternatively add the iOS/Android platform through capacitor and run natively.**
+
+---
+## Are you on Twitter? Let's connect! [@93alan](https://twitter.com/93alan)
