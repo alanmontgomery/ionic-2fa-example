@@ -1,5 +1,5 @@
 # ionic-2fa-example
-Example of Ionic React 2FA UI
+Example of Ionic React 2 factor authentication (2FA) UI
 
 > This is a good example of a custom UI for 2FA
 
