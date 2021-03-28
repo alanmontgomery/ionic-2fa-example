@@ -1,6 +1,5 @@
-import { IonButton, IonCol, IonContent, IonGrid, IonHeader, IonIcon, IonImg, IonPage, IonRow, IonTitle, IonToolbar } from '@ionic/react';
-import { arrowForwardOutline, backspaceOutline } from "ionicons/icons";
-import KeypadInput from '../components/KeypadInput';
+import { IonCol, IonContent, IonGrid, IonHeader, IonIcon, IonImg, IonPage, IonRow, IonToolbar } from '@ionic/react';
+import { arrowForwardOutline } from "ionicons/icons";
 import styles from './Home.module.scss';
 import KeypadInputs from '../components/KeypadInputs';
 import Keypad from '../components/Keypad';

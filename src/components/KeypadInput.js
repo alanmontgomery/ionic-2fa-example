@@ -1,4 +1,4 @@
-import { IonCol, IonInput } from "@ionic/react";
+import { IonCol } from "@ionic/react";
 import styles from "./KeypadInput.module.scss";
 
 const KeypadInput = props => {

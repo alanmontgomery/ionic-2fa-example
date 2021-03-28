@@ -2,8 +2,6 @@ import { IonRow } from "@ionic/react";
 import { useEffect, useRef } from "react";
 import KeypadInput from "./KeypadInput";
 
-import styles from "./KeypadInputs.module.scss";
-
 const KeypadInputs = props => {
 
     const { values, activeIndex, incorrect, correct } = props;

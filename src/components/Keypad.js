@@ -1,6 +1,4 @@
-import { IonButton, IonCol, IonIcon, IonRow } from "@ionic/react";
-import { backspaceOutline } from "ionicons/icons";
-import { useState } from "react";
+import { IonRow } from "@ionic/react";
 import styles from "./Keypad.module.scss";
 import KeypadButton from "./KeypadButton";
 
