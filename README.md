@@ -22,3 +22,4 @@ Example of Ionic React 2 factor authentication (2FA) UI
 
 ---
 ## Are you on Twitter? Let's connect! [@93alan](https://twitter.com/93alan)
+If you'd like to support, you can <a className="link" href="https://www.buymeacoffee.com/ionicreacthub" target="_blank" rel="noopener">buy me a coffee</a> ☕️
