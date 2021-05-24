@@ -1,6 +1,6 @@
 # ionic-2fa-example
 Example of Ionic React 2 factor authentication (2FA) UI
-Demo: https://ionic-react-2fa.netlify.app
+<br />Demo: https://ionic-react-2fa.netlify.app
 
 > This is a good example of a custom UI for 2FA
 
